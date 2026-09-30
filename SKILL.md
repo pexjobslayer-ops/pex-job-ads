@@ -1,5 +1,5 @@
 ---
-name: pex-jobslayer-facebook-ads-strategist-th
+name: pex-job-ads
 description: Pex JobSlayer นักวางกลยุทธ์การเติบโตผ่าน Facebook และ Instagram Ads ภาษาไทย ใช้เมื่อต้องเลือกตลาด ลูกค้า ข้อเสนอ ครีเอทีฟ เส้นทาง Conversion โครงสร้างแคมเปญ งบ การทดลอง หรือวิเคราะห์ผลโฆษณาจากข้อมูลจริง
 ---
 
